@@ -1,0 +1,113 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:39:16.270,TileFrenzy Cube,LG,0.649s,6,6,1,36,36,1,false
+2,20:39:16.653,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+3,20:39:16.978,TileFrenzy Cube,LG,0.041s,2,2,1,12,12,1,false
+4,20:39:17.420,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+5,20:39:17.762,TileFrenzy Cube,LG,0.134s,4,4,1,24,24,1,false
+6,20:39:18.128,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+7,20:39:18.587,TileFrenzy Cube,LG,0.132s,4,4,1,24,24,1,false
+8,20:39:18.962,TileFrenzy Cube,LG,0.132s,4,4,1,24,24,1,false
+9,20:39:19.420,TileFrenzy Cube,LG,0.131s,4,4,1,24,24,1,false
+10,20:39:19.728,TileFrenzy Cube,LG,0.141s,4,4,1,24,24,1,false
+11,20:39:20.053,TileFrenzy Cube,LG,0.142s,4,4,1,24,24,1,false
+12,20:39:20.379,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+13,20:39:20.654,TileFrenzy Cube,LG,0.132s,4,4,1,24,24,1,false
+14,20:39:21.020,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+15,20:39:21.336,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+16,20:39:21.613,TileFrenzy Cube,LG,0.142s,4,4,1,24,24,1,false
+17,20:39:21.983,TileFrenzy Cube,LG,0.145s,4,4,1,24,24,1,false
+18,20:39:22.309,TileFrenzy Cube,LG,0.141s,4,4,1,24,24,1,false
+19,20:39:22.584,TileFrenzy Cube,LG,0.134s,4,4,1,24,24,1,false
+20,20:39:22.951,TileFrenzy Cube,LG,0.134s,4,4,1,24,24,1,false
+21,20:39:23.224,TileFrenzy Cube,LG,0.142s,4,4,1,24,24,1,false
+22,20:39:23.607,TileFrenzy Cube,LG,0.141s,4,4,1,24,24,1,false
+23,20:39:24.299,TileFrenzy Cube,LG,0.416s,10,7,0.7,42,60,0.7,false
+24,20:39:24.699,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+25,20:39:24.975,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+26,20:39:25.074,TileFrenzy Cube,LG,0s,1,1,1,6,6,1,false
+27,20:39:25.483,TileFrenzy Cube,LG,0.275s,7,4,0.571,24,42,0.571,false
+28,20:39:25.891,TileFrenzy Cube,LG,0.224s,6,5,0.833,30,36,0.833,false
+29,20:39:26.216,TileFrenzy Cube,LG,0.092s,3,3,1,18,18,1,false
+30,20:39:26.950,TileFrenzy Cube,LG,0.551s,13,7,0.538,42,78,0.538,false
+31,20:39:27.275,TileFrenzy Cube,LG,0.141s,4,4,1,24,24,1,false
+32,20:39:27.658,TileFrenzy Cube,LG,0.142s,4,4,1,24,24,1,false
+33,20:39:27.933,TileFrenzy Cube,LG,0s,1,1,1,6,6,1,false
+34,20:39:28.608,TileFrenzy Cube,LG,0.601s,14,6,0.429,36,84,0.429,false
+35,20:39:29.025,TileFrenzy Cube,LG,0.234s,6,4,0.667,24,36,0.667,false
+36,20:39:29.450,TileFrenzy Cube,LG,0.183s,5,3,0.6,18,30,0.6,false
+37,20:39:29.817,TileFrenzy Cube,LG,0.092s,3,3,1,18,18,1,false
+38,20:39:30.217,TileFrenzy Cube,LG,0.142s,4,4,1,24,24,1,false
+39,20:39:30.450,TileFrenzy Cube,LG,0.142s,4,4,1,24,24,1,false
+40,20:39:30.600,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+41,20:39:31.142,TileFrenzy Cube,LG,0.275s,7,4,0.571,24,42,0.571,false
+42,20:39:31.368,TileFrenzy Cube,LG,0.134s,4,4,1,24,24,1,false
+43,20:39:31.826,TileFrenzy Cube,LG,0.233s,6,5,0.833,30,36,0.833,false
+44,20:39:32.101,TileFrenzy Cube,LG,0.14s,4,4,1,24,24,1,false
+45,20:39:32.293,TileFrenzy Cube,LG,0.142s,4,4,1,24,24,1,false
+46,20:39:32.484,TileFrenzy Cube,LG,0.183s,5,5,1,30,30,1,false
+47,20:39:33.402,TileFrenzy Cube,LG,0.643s,15,4,0.267,24,90,0.267,false
+48,20:39:33.777,TileFrenzy Cube,LG,0.099s,3,2,0.667,12,18,0.667,false
+49,20:39:34.185,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+50,20:39:34.819,TileFrenzy Cube,LG,0.417s,10,7,0.7,42,60,0.7,false
+51,20:39:34.876,TileFrenzy Cube,LG,0s,1,1,1,6,6,1,false
+52,20:39:35.459,TileFrenzy Cube,LG,0.325s,8,4,0.5,24,48,0.5,false
+53,20:39:35.786,TileFrenzy Cube,LG,0.142s,4,4,1,24,24,1,false
+54,20:39:36.060,TileFrenzy Cube,LG,0.132s,4,4,1,24,24,1,false
+55,20:39:36.444,TileFrenzy Cube,LG,0.141s,4,4,1,24,24,1,false
+56,20:39:36.752,TileFrenzy Cube,LG,0.134s,4,4,1,24,24,1,false
+57,20:39:37.119,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+58,20:39:37.443,TileFrenzy Cube,LG,0.142s,4,4,1,24,24,1,false
+59,20:39:37.760,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+60,20:39:38.127,TileFrenzy Cube,LG,0.143s,4,4,1,24,24,1,false
+61,20:39:38.311,TileFrenzy Cube,LG,0.141s,4,4,1,24,24,1,false
+62,20:39:38.778,TileFrenzy Cube,LG,0.325s,8,5,0.625,30,48,0.625,false
+63,20:39:39.003,TileFrenzy Cube,LG,0.183s,5,4,0.8,24,30,0.8,false
+64,20:39:39.520,TileFrenzy Cube,LG,0.275s,7,6,0.857,36,42,0.857,false
+65,20:39:40.295,TileFrenzy Cube,LG,0.508s,12,7,0.583,42,72,0.583,false
+66,20:39:40.303,TileFrenzy Cube,LG,0s,1,1,1,6,6,1,false
+67,20:39:40.986,TileFrenzy Cube,LG,0.458s,11,4,0.364,24,66,0.364,false
+68,20:39:41.262,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+69,20:39:41.537,TileFrenzy Cube,LG,0.132s,4,4,1,24,24,1,false
+70,20:39:41.578,TileFrenzy Cube,LG,0s,1,1,1,6,6,1,false
+71,20:39:42.137,TileFrenzy Cube,LG,0.325s,8,6,0.75,36,48,0.75,false
+72,20:39:42.504,TileFrenzy Cube,LG,0.133s,4,4,1,24,24,1,false
+73,20:39:42.787,TileFrenzy Cube,LG,0.04s,2,2,1,12,12,1,false
+74,20:39:43.471,TileFrenzy Cube,LG,0.458s,11,7,0.636,42,66,0.636,false
+75,20:39:43.520,TileFrenzy Cube,LG,0s,1,1,1,6,6,1,false
+76,20:39:44.020,TileFrenzy Cube,LG,0.317s,8,4,0.5,24,48,0.5,false
+77,20:39:44.386,TileFrenzy Cube,LG,0.132s,4,4,1,24,24,1,false
+78,20:39:44.753,TileFrenzy Cube,LG,0.142s,4,4,1,24,24,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,390,315,1890.0,2340.0,
+
+Kills:,78
+Deaths:,0
+Fight Time:,14.571
+Avg TTK:,0
+Damage Done:,1890.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,1890.0
+Scenario:,Tile Frenzy Flick
+Hash:,6fba951c55067befb822c39035d3ebaf
+Game Version:,2.0.3.1
+Challenge Start:,20:39:14.869
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Overwatch
+Horiz Sens:,4.64
+Vert Sens:,4.64
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,118.134995
+Resolution Scale,100.0

@@ -1,0 +1,47 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,22:07:44.303,fnflyerslowbot,FN Assault Rifle No Bloom,4.295s,20,5,0.25,231,1320,0.175,false
+2,22:07:46.329,fnflyerbot,FN Assault Rifle No Bloom,1.308s,7,1,0.143,33,462,0.071,false
+4,22:07:55.957,fnflyerslowbot,FN Assault Rifle No Bloom,7.353s,38,9,0.237,297,2508,0.118,false
+5,22:08:03.002,fnflyerbot,FN Assault Rifle No Bloom,6.71s,30,6,0.2,231,1980,0.117,false
+6,22:08:05.252,fnflyerslowbot,FN Assault Rifle No Bloom,1.625s,9,1,0.111,33,594,0.056,false
+7,22:08:13.423,fnflyerbot,FN Assault Rifle No Bloom,5.81s,33,5,0.152,231,2178,0.106,false
+8,22:08:19.995,fnflyerbot,FN Assault Rifle No Bloom,3.452s,20,7,0.35,231,1320,0.175,false
+9,22:08:22.112,fnflyerslowbot,FN Assault Rifle No Bloom,1.547s,8,2,0.25,99,528,0.188,false
+10,22:08:24.496,fnflyerbot,FN Assault Rifle No Bloom,1.233s,7,2,0.286,66,462,0.143,false
+11,22:08:32.448,fnflyerbot,FN Assault Rifle No Bloom,6.434s,32,2,0.062,132,2112,0.062,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+FN Assault Rifle No Bloom,222,44,1716.0,14652.0,
+FN SMG No Bloom,0,0,0.0,0.0,
+FN Hunting Rifle No Bloom,0,0,0.0,0.0,
+
+Kills:,11
+Deaths:,0
+Fight Time:,47.096001
+Avg TTK:,0
+Damage Done:,1716.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,1716.0
+Scenario:,Fortnite Gliders 360
+Hash:,d1f51949646ebdc6eca5470eef055616
+Game Version:,2.0.3.1
+Challenge Start:,22:07:37.694
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Overwatch
+Horiz Sens:,4.64
+Vert Sens:,4.64
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,119.84156
+Resolution Scale,100.0
